@@ -27,7 +27,7 @@ The system uses:
 - Blynk IoT
 
 ## Images
-
+<img width="1723" height="892" alt="led display pcb" src="https://github.com/user-attachments/assets/168e2356-b0b5-4528-b15b-70fe93826a25" />
 
 
 ## Files
