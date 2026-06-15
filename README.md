@@ -28,7 +28,7 @@ The system uses:
 
 ## Images
 
-(Add screenshots here)
+
 
 ## Files
 
