@@ -1,0 +1,182 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "b1882d14-78ba-46e3-af30-3240ba5ad286")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 105.41 93.98)
+		(size 66.04 36.83)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "18c91dbe-3f3f-4ce9-8bcb-c9955b7fa1de")
+		(property "Sheetname" "coloumn"
+			(at 105.41 93.2684 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "coloumn.kicad_sch"
+			(at 105.41 131.3946 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "led display pcb"
+				(path "/b1882d14-78ba-46e3-af30-3240ba5ad286"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 105.41 50.8)
+		(size 63.5 31.75)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "2fb2d45b-69e9-4e54-b48f-f81122341bbe")
+		(property "Sheetname" "row"
+			(at 105.41 50.0884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "row.kicad_sch"
+			(at 105.41 83.1346 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "led display pcb"
+				(path "/b1882d14-78ba-46e3-af30-3240ba5ad286"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 189.23 50.8)
+		(size 64.77 81.28)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "475d6996-9df9-4ed9-9956-e4bb36ba20ea")
+		(property "Sheetname" "LED matrix"
+			(at 189.23 50.0884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "led matrix.kicad_sch"
+			(at 189.23 132.6646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "led display pcb"
+				(path "/b1882d14-78ba-46e3-af30-3240ba5ad286"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 22.86 50.8)
+		(size 60.96 81.28)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "c0f6a184-5902-42fb-8165-e985485c45bf")
+		(property "Sheetname" "MCU"
+			(at 22.86 50.0884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "MCU.kicad_sch"
+			(at 22.86 132.6646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "led display pcb"
+				(path "/b1882d14-78ba-46e3-af30-3240ba5ad286"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
